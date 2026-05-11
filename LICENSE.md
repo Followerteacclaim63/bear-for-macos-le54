@@ -1,4 +1,4 @@
-#  
+#  Enhance Bear for macOS with vip Bear for macOS Script | tags + cloud backup, the #1 script. Includes tags and cloud backup for a smoother experience.
 
 
 
